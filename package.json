@@ -1,0 +1,18 @@
+{
+  "name": "todosampl",
+  "version": "1.0.0",
+  "description": "A Simple todo list",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server -a localhost -p 3000"
+  },
+  "author": "Thanigainathan Siranjeevi",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
