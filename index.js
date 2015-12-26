@@ -9,6 +9,7 @@ var TodoList=React.createClass({
     }
 });
 var TodoApp=React.createClass({
+    
     getInitialState:function(){
         return {items:[],text:''};
     },
